@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi EveryOne, I'm Fidel Quedet.
+
+JAMstack Deeveloper
+
+I've been using react and gatsby for over a year now.
+
+I speak four languages - English, French, German and Spanish
 
 <!--
 **quedet/quedet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
