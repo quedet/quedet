@@ -1,6 +1,6 @@
 Hi EveryOne, I'm Fidel Quedet.
 
-JAMstack Deeveloper (React JS, Gatsby JS, Sanity.io, Strapi, netlify)
+Fullstack Web Developer (React JS, Gatsby JS, Vue.js, Django)
 
 I've been using react and gatsby for over a year now.
 
